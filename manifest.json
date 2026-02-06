@@ -1,11 +1,11 @@
 {
-    "display_name": "RPG Companion",
+    "display_name": "RPG Companion with Character Depth",
     "loading_order": 100,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
-    "author": "Marinara",
-    "version": "3.7.1",
-    "homePage": "https://github.com/SpicyMarinara/rpg-companion-sillytavern"
+    "author": "DarknessMyOldFriend (forked from SpicyMarinara)",
+    "version": "4.0.0-dev",
+    "homePage": "https://github.com/DarknessMyOldFriend898/RPG-Companion-with-Character-Depth"
 }
